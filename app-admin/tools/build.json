@@ -1,0 +1,40 @@
+{
+    "modules": [
+        {
+            "src": "auth/login",
+            "dest": "auth"
+        },
+        {
+            "src": "home/index",
+            "dest": "home"
+        },
+        {
+            "src": "product/product-category/edit",
+            "dest": "product/product-category"
+        },
+        {
+            "src": "product/product-category/index",
+            "dest": "product/product-category"
+        },
+        {
+            "src": "role/role/edit",
+            "dest": "role/role"
+        },
+        {
+            "src": "role/role/index",
+            "dest": "role/role"
+        },
+        {
+            "src": "role/user/edit",
+            "dest": "role/user"
+        },
+        {
+            "src": "role/user/index",
+            "dest": "role/user"
+        },
+        {
+            "src": "role/user/set-password",
+            "dest": "role/user"
+        }
+    ]
+}

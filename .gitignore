@@ -1,0 +1,17 @@
+/node_modules
+/app-admin/node_modules
+/app-web/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+.env
+*/_ide_helper.php
+app-admin/public/www
+app-admin/public/dist
+.DS_Store

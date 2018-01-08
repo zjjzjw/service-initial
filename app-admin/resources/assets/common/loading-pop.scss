@@ -1,0 +1,16 @@
+.layout {
+    width: 50%;
+    height: 50%;
+    z-index: 1001;
+    text-align: center;
+    position: relative;
+}
+
+.progress-bar {
+    position: absolute;
+    left: 0;
+    top: 24px;
+    color: #fff;
+    font-size: 12px;
+    width: 100%;
+}
